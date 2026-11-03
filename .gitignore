@@ -1,1 +1,27 @@
+#   ignore .txt file
 *.txt
+
+# binery file gen by compiler 
+main
+
+# ==========================================
+# macOS Hidden Files and Folders
+# ==========================================
+
+# Folder view configuration files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon file overrides (used for custom folder icons)
+Icon
+
+# Thumbnails and resource forks
+._*
+
+# Files that might appear on external disks/drives
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
